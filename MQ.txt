@@ -1,0 +1,4 @@
+2-smoke gas
+5-LPG
+9-CO
+135-QUALITY
